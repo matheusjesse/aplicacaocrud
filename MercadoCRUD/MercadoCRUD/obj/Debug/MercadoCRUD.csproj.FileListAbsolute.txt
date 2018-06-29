@@ -1,0 +1,11 @@
+C:\Users\matheus\source\repos\MercadoCRUD\MercadoCRUD\bin\Debug\MercadoCRUD.exe.config
+C:\Users\matheus\source\repos\MercadoCRUD\MercadoCRUD\bin\Debug\MercadoCRUD.exe
+C:\Users\matheus\source\repos\MercadoCRUD\MercadoCRUD\bin\Debug\MercadoCRUD.pdb
+C:\Users\matheus\source\repos\MercadoCRUD\MercadoCRUD\obj\Debug\MercadoCRUD.csprojAssemblyReference.cache
+C:\Users\matheus\source\repos\MercadoCRUD\MercadoCRUD\obj\Debug\MercadoCRUD.Form1.resources
+C:\Users\matheus\source\repos\MercadoCRUD\MercadoCRUD\obj\Debug\MercadoCRUD.Properties.Resources.resources
+C:\Users\matheus\source\repos\MercadoCRUD\MercadoCRUD\obj\Debug\MercadoCRUD.csproj.GenerateResource.cache
+C:\Users\matheus\source\repos\MercadoCRUD\MercadoCRUD\obj\Debug\MercadoCRUD.csproj.CoreCompileInputs.cache
+C:\Users\matheus\source\repos\MercadoCRUD\MercadoCRUD\obj\Debug\MercadoCRUD.exe
+C:\Users\matheus\source\repos\MercadoCRUD\MercadoCRUD\obj\Debug\MercadoCRUD.pdb
+C:\Users\matheus\source\repos\MercadoCRUD\MercadoCRUD\obj\Debug\MercadoCRUD.Form2.resources
